@@ -1,0 +1,97 @@
+html,
+body,
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.legend .circle {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin-top: 8px;
+  background-color: rgb(98, 201, 85);
+}
+
+.legend .squre {
+  width: 10px;
+  height: 10px;
+  margin-top: 8px;
+  background-color: rgb(98, 201, 85);
+}
+
+.circle {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin-top: 8px;
+  background-color: rgb(98, 201, 85);
+}
+
+.legend {
+  padding: 10px;
+  font-family: Sanchez, serif;
+  font-size: 18px;
+  /*font-weight: bold;*/
+  line-height: 18px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.legend .green {
+  width: 25px;
+  height: 25px;
+  margin-top: 8px;
+  background-color: green;
+  }
+
+.legend .skyblue {
+  width: 25px;
+  height: 25px;
+  margin-top: 8px;
+  background-color: skyblue;
+}
+
+.legend .yellow{
+  width: 25px;
+  height: 25px;
+  margin-top: 8px;
+  background-color: yellow;
+}
+
+.legend .orange {
+  width: 25px;
+  height: 25px;
+  margin-top: 8px;
+  background-color: orange;
+}
+
+.legend .blue {
+  width: 25px;
+  height: 25px;
+  margin-top: 8px;
+  background-color:blue;
+}
+
+.legend .red {
+  width: 25px;
+  height: 25px;
+  margin-top: 8px;
+  background-color:red;
+}
+
+.legend .pink {
+  width: 25px;
+  height: 25px;
+  margin-top: 8px;
+  background-color:pink;
+}
+
+.padded {
+  padding-left: 10px;
+}
